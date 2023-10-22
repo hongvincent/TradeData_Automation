@@ -1,7 +1,0 @@
-selenium==4.14.0
-requests
-pandas
-matplotlib
-koreanize_matplotlib
-tkinter
-Pillow
