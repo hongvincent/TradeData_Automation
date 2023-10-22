@@ -1,27 +1,6 @@
 # TradeData_Scraping_Automation
 
-알겠습니다. `cts_web_crawler.ipynb`와 `tradedata_crawler.ipynb` 두 Jupyter 노트북의 핵심 기능을 분석하고, 그 내용을 포함한 상세한 README를 작성하겠습니다. 
-
-먼저 각 노트북의 코드 셀들의 내용을 확인하겠습니다.
-
-두 Jupyter 노트북의 주요 코드 셀 내용을 분석한 결과는 다음과 같습니다:
-
-1. **cts_web_crawler.ipynb**:
-   - 웹 크롤링을 위한 Selenium 드라이버를 초기화하고 설정합니다.
-   - 특정 웹사이트로 이동하여 데이터를 크롤링합니다.
-   - 웹 페이지 내에서 발생하는 알림 및 선택지에 대응하는 로직이 포함되어 있습니다.
-   - 월별 및 연도별 조회를 선택하여 해당 기간의 데이터를 다운로드합니다.
-
-2. **tradedata_crawler.ipynb**:
-   - 크롤링한 데이터를 기반으로 다양한 차트를 생성하는 GUI 애플리케이션을 실행합니다.
-   - CSV 파일을 업로드하고, 해당 데이터를 바탕으로 파이 차트, 막대 차트 등을 생성합니다.
-   - 생성된 차트를 PNG 형식으로 저장하는 기능이 포함되어 있습니다.
-
-이제 이 정보를 기반으로 자세한 한국어 README를 작성하겠습니다.
-
 ## README.md (한국어 버전)
-
----
 
 ### TradeData_Automation-main
 
