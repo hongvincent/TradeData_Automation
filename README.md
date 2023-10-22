@@ -1,6 +1,3 @@
-# TradeData_Scraping_Automation
-
-
 # TradeData_Automation
 
 ## 소개
