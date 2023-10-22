@@ -1,6 +1,6 @@
 # TradeData_Scraping_Automation
 
-## README.md (한국어 버전)
+## README.md
 
 ### TradeData_Automation-main
 
